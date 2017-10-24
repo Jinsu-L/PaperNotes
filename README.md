@@ -1,4 +1,4 @@
-### Paper Notes
+# Paper Notes
 
 It is a repository of paper that I read.
 ---
